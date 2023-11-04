@@ -1,0 +1,20 @@
+/* CONTACTAME */
+
+.section-contacto {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    .contenedor-contacto {
+        background-color: rgba(0, 0, 0, 0.877);
+        border-radius: 10px;
+        padding: 2rem;
+        width: 1000px;
+        box-shadow: 0 2px 9px 0.15px rgb(6, 250, 6);
+        color: #ffffff;
+        display: flex;
+        margin: 1rem;
+    }
+}

@@ -1,0 +1,75 @@
+.container-fluid {
+    background-color: #0000005e;
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(14px);
+    padding: 1rem 1rem;
+
+}
+
+
+
+
+
+
+
+
+
+.nav-item {
+    font-size: 18px;
+
+    text-decoration: none;
+    color: #ececec;
+
+
+}
+
+
+
+
+.navbar-brand {
+    font-family: "hanson", sans-serif;
+
+    color: #15ff00;
+    font-size: 20px;
+    justify-content: center;
+
+}
+
+
+
+.body {
+
+    background-image: url(../images/indexfoto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex: row;
+    color: #cfcfcf;
+    height: 100%;
+    width: 100%;
+
+}
+
+
+
+
+.menu-item a {
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #ececec;
+
+
+}
+
+.top-logo {
+    font-family: "hanson", sans-serif;
+    padding: 20px 10px 2px 2px;
+    color: #15ff00;
+    font-size: 25px;
+    justify-content: center;
+
+}
