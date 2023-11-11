@@ -235,7 +235,51 @@
   box-shadow: 0 2px 9px 0.15px rgb(6, 250, 6);
   color: #ffffff;
   display: flex;
-  margin: 1rem;
+  
+}
+
+.contactame {
+
+  display: flex;
+  font-size: 32px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2rem;
+  font-family: "hanson";
+  text-transform: uppercase;
+
+}
+.tittle-work{
+  display: flex;
+  font-size: 30px;
+  background-color: black;
+
+  margin-left: 25%;
+  margin-right: 25%;
+  margin: 2rem;
+  
+  padding: 2rem;
+  border-radius: 10px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  
+  font-family: "hanson";
+  text-transform: uppercase;
+
+
+}
+.tienda{
+  display: flex;
+  font-size: 32px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2rem;
+  font-family: "hanson";
+  text-transform: uppercase;
+
 }
 
 .section-grids {
