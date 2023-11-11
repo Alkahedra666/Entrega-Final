@@ -15,6 +15,13 @@
   color: #15ff00;
 }
 
+@font-face {
+
+    font-family: "hanson";
+    src:url(/hanson-bold/Hanson-Bold.ttf)
+}
+
+
 .header-index {
   background-color: rgba(0, 0, 0, 0.7607843137);
   position: sticky;
